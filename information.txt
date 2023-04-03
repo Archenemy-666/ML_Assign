@@ -1,0 +1,35 @@
+Values of Linear Regression:
+mean:  16344794849.006933
+bagged mean:  9773252407.207045
+boosted mean:  15651736770.980402
+vr mean:  8172397439.390045
+stat bagged:  Ttest_relResult(statistic=0.6788069375273246, pvalue=0.5143348494136939)
+stat boosted:  Ttest_relResult(statistic=0.07532321746831111, pvalue=0.9416052724393277)
+stat vr:  Ttest_relResult(statistic=1.4626958577418099, pvalue=0.1775758511797449)
+
+ Values of Decision Tree Regression:
+mean:  60.77169222578897
+bagged mean:  54.37926897417405
+boosted mean:  43.675336959785724
+vr mean:  49.7778668415203
+stat bagged:  Ttest_relResult(statistic=1.717483673933312, pvalue=0.1200179212523518)
+stat boosted:  Ttest_relResult(statistic=3.1882455534022687, pvalue=0.011037623226758412)
+stat vr:  Ttest_relResult(statistic=2.668791677330304, pvalue=0.025673237989806273)
+
+ Values of Kneighbours:
+mean:  48.96629326258914
+bagged mean:  54.86178375750328
+boosted mean:  49.630933572687624
+vr mean:  48.989809809188664
+stat bagged:  Ttest_relResult(statistic=-1.4987493905316356, pvalue=0.16816895450382235)
+stat boosted:  Ttest_relResult(statistic=-0.08055674594649458, pvalue=0.9375573733572653)
+stat vr:  Ttest_relResult(statistic=-0.005688585450958146, pvalue=0.995585286981425)
+
+ Values of SVM:
+mean:  38.329587429612175
+bagged mean:  60.77027744741575
+boosted mean:  42.307590353879775
+vr mean:  55.19466266813656
+stat bagged:  Ttest_relResult(statistic=-4.397315248966746, pvalue=0.0017270987939240756)
+stat boosted:  Ttest_relResult(statistic=-1.9826016730322888, pvalue=0.07872914386393486)
+stat vr:  Ttest_relResult(statistic=-2.2433122246955017, pvalue=0.05156354356008713)
